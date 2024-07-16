@@ -1,0 +1,113 @@
+{
+  "videos": [
+    {
+      "id": "14",
+      "titulo": "Todo sobre Front-End: 💰 salarios, qué estudiar y consejos para la carrera.",
+      "link": "https://www.youtube.com/watch?v=8xo1FID4TqU",
+      "capa": "https://img.youtube.com/vi/8xo1FID4TqU/maxresdefault.jpg",
+      "categoria": "frontend",
+      "descripcion": "todo front"
+    },
+    {
+      "id": "17",
+      "titulo": "Todo sobre Front-End: 💰 salarios, qué estudiar y consejos para la carrera.",
+      "link": "https://www.youtube.com/watch?v=8xo1FID4TqU",
+      "capa": "https://img.youtube.com/vi/8xo1FID4TqU/maxresdefault.jpg",
+      "categoria": "backend",
+      "descripcion": "todo front"
+    },
+    {
+      "id": "18",
+      "titulo": "Todo sobre Front-End: 💰 salarios, qué estudiar y consejos para la carrera.",
+      "link": "https://www.youtube.com/watch?v=8xo1FID4TqU",
+      "capa": "https://img.youtube.com/vi/8xo1FID4TqU/maxresdefault.jpg",
+      "categoria": "bancodedados",
+      "descripcion": "todo front"
+    },
+    
+    {
+      "id": "23",
+      "titulo": "Cómo convertirse en Analista de Datos en 2023",
+      "link": "https://www.youtube.com/watch?v=MzJbWF_swRc",
+      "capa": "https://img.youtube.com/vi/MzJbWF_swRc/maxresdefault.jpg",
+      "categoria": "bancodedados",
+      "descripcion": "base de datos"
+    },
+    {
+      "id": "50",
+      "titulo": "Creando app de finanzas paso a paso con React Native 👌🔥",
+      "link": "https://www.youtube.com/watch?v=REulDg3JzzQ",
+      "capa": "https://img.youtube.com/vi/REulDg3JzzQ/maxresdefault.jpg",
+      "categoria": "mobile",
+      "descripcion": "Lo mejor de aplicaciones móviles"
+    },
+    {
+      "id": "56",
+      "titulo": "Qué es DevOps en Menos de 7 min",
+      "link": "https://www.youtube.com/watch?v=5fQJC9iLCbE",
+      "capa": "https://img.youtube.com/vi/5fQJC9iLCbE/maxresdefault.jpg",
+      "categoria": "devops",
+      "descripcion": "Todo Sobre DevOps"
+    },
+    {
+      "id": "99",
+      "titulo": "Cómo convertirse en Desarrollador Web en 6 meses - Desarrollador Full Stack",
+      "link": "https://www.youtube.com/watch?v=whVoEvJPTro",
+      "capa": "https://img.youtube.com/vi/whVoEvJPTro/maxresdefault.jpg",
+      "categoria": "fullstack",
+      "descripcion": "Cómo convertirse en un fullstack"
+    },
+    {
+      "id": "101",
+      "titulo": "Si no aprendes PROGRAMACIÓN con este video. - ̗̀ DESISTE ̖́-",
+      "link": "https://www.youtube.com/watch?v=A1BaZr82XJI",
+      "capa": "https://img.youtube.com/vi/A1BaZr82XJI/maxresdefault.jpg",
+      "categoria": "programacion",
+      "descripcion": "Todo sobre programación"
+    }
+  ],
+  "categorias": [
+    {
+      "id": "frontend",
+      "titulo": "Front End",
+      "color": "red",
+      "descripcion": "Lo mejor sobre Front End"
+    },
+    {
+      "id": "backend",
+      "titulo": "Back End",
+      "color": "blue",
+      "descripcion": "Lo mejor sobre Back End"
+    },
+    {
+      "id": "bancodedados",
+      "titulo": "Base de Datos",
+      "color": "yellow",
+      "descripcion": "Lo mejor sobre Base de datos"
+    },
+    {
+      "id": "mobile",
+      "titulo": "Móvil",
+      "color": "#b90bd0",
+      "descripcion": "Lo mejor sobre apps móviles"
+    },
+    {
+      "id": "devops",
+      "titulo": "DevOps",
+      "color": "#520585",
+      "descripcion": "Mejor lista de reproducción sobre DevOps"
+    },
+    {
+      "id": "fullstack",
+      "titulo": "FullStack",
+      "color": "#069d08",
+      "descripcion": "Contenidos sobre FullStack"
+    },
+    {
+      "id": "programacion",
+      "titulo": "PROGRAMACIÓN",
+      "color": "#03e2de",
+      "descripcion": "Todo sobre programación y más"
+    }
+  ]
+}
